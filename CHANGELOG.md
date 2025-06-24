@@ -1,5 +1,19 @@
 # Changelog
 
+## 0.0.1 (2025-06-24)
+
+
+### Bug Fixes
+
+* **deps:** bump org.springframework.boot:spring-boot-starter-logging ([138b11d](https://github.com/Chripein/github-unleashed-sample_EBCONT-app/commit/138b11de52175dc55e3d9443f239ca2282641052))
+* **deps:** bump org.springframework.boot:spring-boot-starter-logging from 2.7.16 to 3.5.3 ([80d05ff](https://github.com/Chripein/github-unleashed-sample_EBCONT-app/commit/80d05ffd8c90d1e4afcb9f71d6ee7e45c389bd03))
+* **deps:** bump org.springframework.boot:spring-boot-starter-parent ([d3b244e](https://github.com/Chripein/github-unleashed-sample_EBCONT-app/commit/d3b244ea3b90dc0b27691d3768136dcd0f36f40a))
+
+
+### Miscellaneous Chores
+
+* release of sample-app 0.0.1 ([587fc21](https://github.com/Chripein/github-unleashed-sample_EBCONT-app/commit/587fc2178f703b0bbd338d5969e7a07695e84eaa))
+
 ## [0.0.2](https://github.com/EBCONT-Conference/github-unleashed-sample-app/compare/v0.0.1...v0.0.2) (2025-05-27)
 
 
