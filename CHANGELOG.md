@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.0.2](https://github.com/Chripein/github-unleashed-sample_EBCONT-app/compare/v0.0.1...v0.0.2) (2025-06-24)
+
+
+### Bug Fixes
+
+* fix typo ([dde3423](https://github.com/Chripein/github-unleashed-sample_EBCONT-app/commit/dde3423ff13857491093f3439a3cfaa02d3a4faf))
+* fix typo ([66f74a3](https://github.com/Chripein/github-unleashed-sample_EBCONT-app/commit/66f74a317edf5817959ae98e6ab635c7a025f0b2))
+
 ## 0.0.1 (2025-06-24)
 
 
