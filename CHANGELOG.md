@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.0](https://github.com/Chripein/github-unleashed-sample_EBCONT-app/compare/v0.0.2...v0.1.0) (2025-06-24)
+
+
+### Features
+
+* new ([34ed2e9](https://github.com/Chripein/github-unleashed-sample_EBCONT-app/commit/34ed2e94fb25d87fdb41ddcd6212c8e232909788))
+* new1 ([c940d85](https://github.com/Chripein/github-unleashed-sample_EBCONT-app/commit/c940d859b6b216c9026e43bcb82dbffbad194e69))
+
 ## [0.0.2](https://github.com/Chripein/github-unleashed-sample_EBCONT-app/compare/v0.0.1...v0.0.2) (2025-06-24)
 
 
